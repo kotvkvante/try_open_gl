@@ -1,0 +1,8 @@
+#define Matryoshka_VERSION_MAJOR @MatryoshkaProj_VERSION_MAJOR@
+#define Matryoshka_VERSION_MINOR @MatryoshkaProj_VERSION_MINOR@
+
+#cmakedefine USE_MYMATH
+#cmakedefine WITH_GL3W
+#cmakedefine WITH_GLAD
+#cmakedefine WITH_GLEW
+
